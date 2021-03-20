@@ -14,16 +14,16 @@
     "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
   },
   {
-    "trending": false,
+    "trending": true,
     "category": "economy",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png",
     "heading": "What a News 3",
     "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
   },
   {
-    "trending": false,
+    "trending": true,
     "category": "politics",
-    "img": "http://blog.statementgames.com/wp-content/uploads/2018/06/breaking-news.jpg",
+    "img": "https://blog.statementgames.com/wp-content/uploads/2018/06/breaking-news.jpg",
     "heading": "Maza Aagaya 4",
     "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
   },
@@ -35,14 +35,14 @@
     "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
   },
   {
-    "trending": false,
+    "trending": true,
     "category": "finance",
     "img": "https://www.ambrosiatc.com/wp-content/uploads/2017/07/special-report-addiction-news-graphic.jpg",
     "heading": "Holy Wow 6",
     "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
   },
   {
-    "trending": false,
+    "trending": true,
     "category": "marketing",
     "img": "https://www.bundabergnow.com/wp-content/uploads/2020/08/9-news-australia-national.jpg",
     "heading": "Bik Gayi Gormint 7",
