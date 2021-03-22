@@ -1,0 +1,51 @@
+[
+  {
+    "trending": true,
+    "category": "sports",
+    "img": "https://www.newscenter1.tv/content/uploads/2019/03/breaking-news-still.jpg",
+    "heading": "Breaking News 1",
+    "news": "Itaque eaque dolor ut autem quibusdam"
+  },
+  {
+    "trending": false,
+    "category": "business",
+    "img": "https://content.thriveglobal.com/wp-content/uploads/2017/08/breaking-news.jpg",
+    "heading": "Amazing News 2",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  },
+  {
+    "trending": true,
+    "category": "economy",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png",
+    "heading": "What a News 3",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  },
+  {
+    "trending": true,
+    "category": "politics",
+    "img": "https://blog.statementgames.com/wp-content/uploads/2018/06/breaking-news.jpg",
+    "heading": "Maza Aagaya 4",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  },
+  {
+    "trending": false,
+    "category": "education",
+    "img": "https://www.courieranywhere.com/wp-content/uploads/2018/07/breaking-news-logo.jpg",
+    "heading": "Aisa Kaise 5",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  },
+  {
+    "trending": true,
+    "category": "finance",
+    "img": "https://www.ambrosiatc.com/wp-content/uploads/2017/07/special-report-addiction-news-graphic.jpg",
+    "heading": "Holy Wow 6",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  },
+  {
+    "trending": true,
+    "category": "marketing",
+    "img": "https://www.bundabergnow.com/wp-content/uploads/2020/08/9-news-australia-national.jpg",
+    "heading": "Bik Gayi Gormint 7",
+    "news": "Itaque eaque dolor ut autem quibusdam. Fugiat quasi voluptatem et et. Exercitationem nulla laboriosam unde et quo consectetur possimus."
+  }
+]
