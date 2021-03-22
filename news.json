@@ -1,9 +1,109 @@
+
 [
-  {
-    "trending":true,
-    "category":"sports",
-    "img":"https://i.ibb.co/jrcLtkv/news2.jpg",
-    "heading":"Wray",
-    "news":"news"
-  }
+    {
+      "trending": true,
+      "category": "sports",
+      "img": "https://i.ibb.co/jrcLtkv/news2.jpg",
+      "heading":
+          "March Madness: Six seeds the NCAA Tournament committee got wrong on Selection Sunday",
+      "news":
+          "The NCAA Tournament selection committee was bound to have a difficult task this year in seeding teams following a scattered season of postponements, pauses and cancellations due to COVID-19 protocols.\n\nThere's always strong debate about which teams make the field and which are left out, and this year's biggest surprise was the committee putting Wichita State into the field of 68. Fans always do their work, creating conflicts."
+    },
+    {
+      "trending": false,
+      "category": "politics",
+      "img": "https://i.ibb.co/vd5J9t6/news3.png",
+      "heading":
+          "FBI Director Wray: 'Raw' gives warning prior to Capitol attack shared with police",
+      "news": "Tuesday, FBI Director Christopher Wray described a warning the night before the Capitol riots about the prospect of extreme violence as \"raw, unverified, uncorroborated information\" \u2013 but he said the bureau's report was shared extensively with Capitol Police.\\n\\nWray said the report, which concluded that extremists were \"preparing for war,\" was provided to authorities at the command level.\""
+    },
+    {
+      "trending": true,
+      "category": "business",
+      "img": "https://i.ibb.co/pxcZMFH/news4.jpg",
+      "heading": "FedEx committing to reach carbon-neutral operations by 2040",
+      "news":
+          "MEMPHIS – FedEx is committing to reach carbon-neutral operations by 2040.\n\nAided in part by replacing its entire pickup and delivery fleet with zero-emission electric vehicles, the Memphis-based company announced Wednesday. FedEx, which uses more than 200,000 motorized vehicles and 680 cargo aircraft to fuel its global delivery network. This most definately desired a massive & deep change."
+    },
+    {
+      "trending": true,
+      "category": "business",
+      "img": "https://i.ibb.co/Cb81dKD/news5.png",
+      "heading":
+          "Miss Universe competition will return in May after a year and half delay",
+      "news":
+          "NEW YORK— After a year and a half, the Miss Universe competition will return with a live telecast on May 16.\n\nThe 69th Miss Universe event will be held at the Seminole Hard Rock Hotel & Casino Hollywood in Hollywood, Florida.\nPaula M. Shugart, the president of the Miss Universe Organization. said in a press release Wednesday that they’ve spent months planning a safe competition.."
+    },
+    {
+      "trending": true,
+      "category": "finance",
+      "img": "https://i.ibb.co/MSj1dFC/news6.jpg",
+      "heading":
+          "Senate taking up stimulus bill, $1,400 checks: Live COVID-19 updates",
+      "news":
+          "Ramping up production of the latest vaccine to win FDA authorization will provide all American adults access to a COVID-19 vaccine within three months, the Biden administration announced Wednesday.\n\nWhite House coronavirus adviser Andy Slavitt, speaking at a White House briefing, said the federal government is spending $100 million to rework Merck Co.'s manufacturing plants."
+    },
+    {
+      "trending": true,
+      "category": "miscellaneous",
+      "img": "https://i.ibb.co/hYdLFHC/news1.jpg",
+      "heading":
+          "Bow! Beyoncé is now the most-winning lady singer in Grammys history.",
+      "news":
+          "She is the activist and historian telling the stories of Black people through her award-winning \"Formation\" music video and visual album \"Lemonade.\" She is one half of the Louvre-dwelling Mr. and Mrs. Carter, who put their love story on display with the album \"Everything is Love,\" and the director/producer/star of \"Homecoming.\"The amalgamation of all these things make her today's iconic Grammy legend."
+    },
+    {
+      "trending": false,
+      "category": "fintech",
+      "img": "https://i.ibb.co/R69QXqH/news7.jpg",
+      "heading":
+          "'We are going to have to save ourselves,' Black community fights.",
+      "news":
+          "Name a COVID-19 vaccine conspiracy theory circulating on social media, and hairstylist Katrina Randolph has heard it. So every time a client slides into her chair, she snips away at fears and misconceptions.\n\nNo, the vaccine isn’t an effort to sterilize Black people. It can’t alter your DNA. It won’t implant a microchip to track your movements. And no, people of color are not being used as guinea pigs.\n\nRandolph has put herself on the front lines of the Black community’s fight against COVID-19 vaccine misinformation, part of a network of barbershops and beauty salons working with Dr. Stephen B. Thomas, who runs the Maryland Center for Health Equity at the University of Maryland School of Public Health."
+    },
+    {
+      "trending": true,
+      "category": "politics",
+      "img": "https://i.ibb.co/QkpCQkw/news8.jpg",
+      "heading":
+          "Joe Biden quoted: I am looking forward to losing an hour of sleep... kind of.",
+      "news":
+          "As someone who loves sleep, I'm looking on the bright side of losing an hour of it this weekend due to daylight savings time.\n\nSleep during the pandemic has been tough for a lot of people. For me, it's meant more trouble falling asleep, and once I finally do, more vivid stress dreams. Fun, right? That's why I like to get as much of it as I can, when I can. \n\nSo, my tactic for this weekend is pretty simple – getting in bed early! I've found that unwinding at night with a book is great way for me to give my mind a break from the stress of the day (and give my eyes a much-needed break from screens).\n\nBut, I also totally understand the plus side of this annual ritual, namely getting more daylight at the end of the day as the weather warms. ."
+    },
+    {
+      "trending": true,
+      "category": "politics",
+      "img": "https://i.ibb.co/rwJVWFT/news9.jpg",
+      "heading":
+          "We need a domestic terrorism law. Call these crimes what they are, for victims and America.",
+      "news":
+          "In 1983, a racist anti-Semite named Robert Jay Mathews founded “The Order,” a white supremacist neo-Nazi group vehemently opposed to the federal government, which Mathews believed was controlled by “Zionists.” The Order sought to establish a homeland in the Pacific Northwest from which Jews and people of color would be excluded. To fund its operations, the group counterfeited currency and committed violent bank and armored car robberies."
+    },
+    {
+      "trending": true,
+      "category": "miscellaneous",
+      "img": "https://i.ibb.co/5BdwKD0/news10.jpg",
+      "heading":
+          "My show-biz parents were canceled for good reasons and bad. Let's cancel racism someday.",
+      "news":
+          "In 1975, my mother, the actress Charlotte Rae, was a victim of cancel culture. She had landed a role on a new Norman Lear television series, but after only 13 episodes, the show was canceled. “Hot l Baltimore,” based on the Broadway play by Lanford Wilson, depicted the occupants of a run-down hotel, including sex workers, a gay couple and an undocumented immigrant, and this offended people. Some ABC affiliate stations, including WJZ in Baltimore, where the show took place, refused it a time slot."
+    },
+    {
+      "trending": true,
+      "category": "business",
+      "img": "https://i.ibb.co/WkS9dD1/news11.jpg",
+      "heading":
+          "Sen. Marco Rubio: Amazon should face unionization drive without Republican support",
+      "news":
+          "For the past several years, Amazon has waged a war against working-class values. The Silicon Valley titan uses anticompetitive strategies to crush small businesses, bans conservative books and blocks traditional charities from participating in its AmazonSmile program. Not surprisingly, it has also bowed to China's censorship demands.\n\nAmazon may be headquartered in America, but it considers itself a citizen of the world.\n\nNow, the company is facing a unionization effort at its warehouse in Bessemer, Alabama."
+    },
+    {
+      "trending": true,
+      "category": "marketing",
+      "img": "https://i.ibb.co/4TB8144/news12.jpg",
+      "heading":
+          "Doctor on the anniversary of COVID: 'Did not anticipate ... the public would not believe us'",
+      "news":
+          "Thursday marks the first anniversary of when the greatest of nations was shut down by the smallest of viruses. March 11, 2020, was the day the World Health Organization declared COVID-19 a pandemic, cases were rising within our borders,and then-President Donald Trump could no longer credibly argue that the novel coronavirus would \n“magically disappear.\n”"
+    }
 ]
