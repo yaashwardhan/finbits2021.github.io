@@ -1,5 +1,20 @@
 [
   {
+    "sliderHead":"https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
+    "sliderIMG": {
+      "slider1": "Kulas Light",
+      "slider2": "Apt. 556",
+      "slider3": "Gwenborough",
+      "slider4": "92998-3874",
+      "slider5": "92998-3874",
+      "slider6": "92998-3874",
+      "slider7": "92998-3874",
+      "slider8": "92998-3874",
+      "slider9": "92998-3874",
+      "slider10": "92998-3874"
+    }
+  },
+  {
     "sliderHead":"https://static.wixstatic.com/media/42bf3c_6f05e520aaec473b912ba55c9fcf9955~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_6f05e520aaec473b912ba55c9fcf9955~mv2.webp",
     "sliderIMG": {
       "slider1": "Kulas Light",
@@ -16,21 +31,6 @@
   },
   {
     "sliderHead":"https://static.wixstatic.com/media/42bf3c_a46e45dffee6438892d8cce552f57de9~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_a46e45dffee6438892d8cce552f57de9~mv2.webp",
-    "sliderIMG": {
-      "slider1": "Kulas Light",
-      "slider2": "Apt. 556",
-      "slider3": "Gwenborough",
-      "slider4": "92998-3874",
-      "slider5": "92998-3874",
-      "slider6": "92998-3874",
-      "slider7": "92998-3874",
-      "slider8": "92998-3874",
-      "slider9": "92998-3874",
-      "slider10": "92998-3874"
-    }
-  },
-  {
-    "sliderHead":"https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
     "sliderIMG": {
       "slider1": "Kulas Light",
       "slider2": "Apt. 556",
