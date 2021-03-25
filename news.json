@@ -1,15 +1,6 @@
 
 [
     {
-      "trending": true,
-      "category": "sports",
-      "img": "https://i.ibb.co/jrcLtkv/news2.jpg",
-      "heading":
-          "March Madness: Six seeds the NCAA Tournament committee got wrong on Selection Sunday",
-      "news":
-          "The NCAA Tournament selection committee was bound to have a difficult task this year in seeding teams following a scattered season of postponements, pauses and cancellations due to COVID-19 protocols.\n\nThere's always strong debate about which teams make the field and which are left out, and this year's biggest surprise was the committee putting Wichita State into the field of 68. Fans always do their work, creating conflicts."
-    },
-    {
       "trending": false,
       "category": "politics",
       "img": "https://i.ibb.co/vd5J9t6/news3.png",
