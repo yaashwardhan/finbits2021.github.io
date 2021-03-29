@@ -58,5 +58,20 @@
             "https://static.wixstatic.com/media/42bf3c_1dab5ddcf0cb47fbb433d0a2a2f2fde9~mv2.png?dn=corousel%202.0-09.png",
             "https://static.wixstatic.com/media/42bf3c_0962524845f2482fa3c230562807a596~mv2.png?dn=PL-10.png"
         ]
+    }, 
+    {
+        "sliderHead": "https://static.wixstatic.com/media/42bf3c_26ed84de1591494781969efb937740da~mv2.png?dn=Investment-01.png",
+        "sliderIMG": [
+            "https://static.wixstatic.com/media/42bf3c_26ed84de1591494781969efb937740da~mv2.png?dn=Investment-01.png",
+            "https://static.wixstatic.com/media/42bf3c_2fbf9892553847d8b3e32876142e0155~mv2.png?dn=Investment-02.png",
+            "https://static.wixstatic.com/media/42bf3c_1a7aef5152f04dd69db761c5b93193dc~mv2.png?dn=Investment-03.png",
+            "https://static.wixstatic.com/media/42bf3c_9c9c70d7ec5144268c42fa4127da52aa~mv2.png?dn=Investment-04.png",
+            "https://static.wixstatic.com/media/42bf3c_dcde27549f214772b1c6288da71e222e~mv2.png?dn=Investment-05.png",
+            "https://static.wixstatic.com/media/42bf3c_842c1fa3e9ee457a92006f066b5f4078~mv2.png?dn=Investment-06.png",
+            "https://static.wixstatic.com/media/42bf3c_bbc73b94d6c044a29b0df871cdf40e45~mv2.png?dn=Investment-07.png",
+            "https://static.wixstatic.com/media/42bf3c_b254e2ab48314d5d8bf4bf2cd0316bf0~mv2.png?dn=Investment-08.png",
+            "https://static.wixstatic.com/media/42bf3c_517d0a0ce9784f3582f759a6c3ccbedd~mv2.png?dn=Investment-09.png",
+            "https://static.wixstatic.com/media/42bf3c_0962524845f2482fa3c230562807a596~mv2.png?dn=PL-10.png"
+        ]
     }
 ]
