@@ -1,6 +1,36 @@
 [
     {
+        "sliderHead": "https://static.wixstatic.com/media/42bf3c_a432890685fe4f5aad2c3827fd78b0db~mv2.jpg/v1/fill/w_314,h_313,fp_0.50_0.50,q_90,usm_1.00_0.66_0.01/42bf3c_a432890685fe4f5aad2c3827fd78b0db~mv2.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1cm46YXBwOjZiZTRmNGFmMjAzOTQwOTVhZDY5Y2NjMzk4ODkyYzhkIiwib2JqIjpbW3sicGF0aCI6Ii9tZWRpYS80MmJmM2NfYTQzMjg5MDY4NWZlNGY1YWFkMmMzODI3ZmQ3OGIwZGJ-bXYyLmpwZyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sImlzcyI6InVybjphcHA6NmJlNGY0YWYyMDM5NDA5NWFkNjljY2MzOTg4OTJjOGQiLCJpYXQiOjEwMDAsImp0aSI6IjE2MjUwOTc2MDAiLCJleHAiOjE2MjUwOTc2MDAsIndtayI6eyJwYXRoIjoiL21lZGlhLzhiYjQzOF8zOWE3OGI0NmQ0ZmU0NzA2OWRhNjNkYTkzNDhiNGVlNX5tdjIucG5nIiwib3BhY2l0eSI6MSwicHJvcG9ydGlvbnMiOjAuMSwiZ3Jhdml0eSI6Im5vcnRoLXdlc3QifX0.H11He0VX9YnZRBnWwqQsQWphTrflVE11tfGXGMSiZxw",
+        "sliderIMG": [
+            "https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
+            "https://static.wixstatic.com/media/42bf3c_e5f27b8e269c4e92867110566593bacf~mv2.png?dn=PL-02.png",
+            "https://static.wixstatic.com/media/42bf3c_d6ae2d9da6d0402ea8135496d7cbbb60~mv2.png?dn=PL-03.png",
+            "https://static.wixstatic.com/media/42bf3c_9c9756b42b924d428edc65cdf57628e3~mv2.png?dn=PL-04.png",
+            "https://static.wixstatic.com/media/42bf3c_d38fac9d991946488afb1a231addb832~mv2.png?dn=PL-05.png",
+            "https://static.wixstatic.com/media/42bf3c_f888363c07ae4b149de7f299783c62c5~mv2.png?dn=PL-06.png",
+            "https://static.wixstatic.com/media/42bf3c_ef6445581af7405d8d69d517980a4b51~mv2.png?dn=PL-07.png",
+            "https://static.wixstatic.com/media/42bf3c_bd1059bafe124253a560ad9c5ce07e48~mv2.png?dn=PL-08.png",
+            "https://static.wixstatic.com/media/42bf3c_490c2892d2be4c1b9024db1fc66126bc~mv2.png?dn=PL-09.png",
+            "https://static.wixstatic.com/media/42bf3c_0962524845f2482fa3c230562807a596~mv2.png?dn=PL-10.png"
+        ]
+    },
+    {
         "sliderHead": "https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
+        "sliderIMG": [
+            "https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
+            "https://static.wixstatic.com/media/42bf3c_e5f27b8e269c4e92867110566593bacf~mv2.png?dn=PL-02.png",
+            "https://static.wixstatic.com/media/42bf3c_d6ae2d9da6d0402ea8135496d7cbbb60~mv2.png?dn=PL-03.png",
+            "https://static.wixstatic.com/media/42bf3c_9c9756b42b924d428edc65cdf57628e3~mv2.png?dn=PL-04.png",
+            "https://static.wixstatic.com/media/42bf3c_d38fac9d991946488afb1a231addb832~mv2.png?dn=PL-05.png",
+            "https://static.wixstatic.com/media/42bf3c_f888363c07ae4b149de7f299783c62c5~mv2.png?dn=PL-06.png",
+            "https://static.wixstatic.com/media/42bf3c_ef6445581af7405d8d69d517980a4b51~mv2.png?dn=PL-07.png",
+            "https://static.wixstatic.com/media/42bf3c_bd1059bafe124253a560ad9c5ce07e48~mv2.png?dn=PL-08.png",
+            "https://static.wixstatic.com/media/42bf3c_490c2892d2be4c1b9024db1fc66126bc~mv2.png?dn=PL-09.png",
+            "https://static.wixstatic.com/media/42bf3c_0962524845f2482fa3c230562807a596~mv2.png?dn=PL-10.png"
+        ]
+    },    
+    {
+        "sliderHead": "https://static.wixstatic.com/media/42bf3c_49fe56cc6e5b4af29404ec2ed6280d62~mv2.png/v1/fill/w_313,h_313,fp_0.50_0.50,usm_1.00_0.66_0.01/42bf3c_49fe56cc6e5b4af29404ec2ed6280d62~mv2.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1cm46YXBwOjZiZTRmNGFmMjAzOTQwOTVhZDY5Y2NjMzk4ODkyYzhkIiwib2JqIjpbW3sicGF0aCI6Ii9tZWRpYS80MmJmM2NfNDlmZTU2Y2M2ZTViNGFmMjk0MDRlYzJlZDYyODBkNjJ-bXYyLnBuZyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sImlzcyI6InVybjphcHA6NmJlNGY0YWYyMDM5NDA5NWFkNjljY2MzOTg4OTJjOGQiLCJpYXQiOjEwMDAsImp0aSI6IjE2MjUwOTc2MDAiLCJleHAiOjE2MjUwOTc2MDAsIndtayI6eyJwYXRoIjoiL21lZGlhLzhiYjQzOF8zOWE3OGI0NmQ0ZmU0NzA2OWRhNjNkYTkzNDhiNGVlNX5tdjIucG5nIiwib3BhY2l0eSI6MSwicHJvcG9ydGlvbnMiOjAuMSwiZ3Jhdml0eSI6Im5vcnRoLXdlc3QifX0.rHA1vWCThQDghtC6l9JYHC6jLiO5ssPyD3Kqp15fCUs",
         "sliderIMG": [
             "https://static.wixstatic.com/media/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.png/v1/fill/w_464,h_464,al_c/42bf3c_69ccbd04b7a84243b3cf5e4aa8ca7ffb~mv2.webp",
             "https://static.wixstatic.com/media/42bf3c_e5f27b8e269c4e92867110566593bacf~mv2.png?dn=PL-02.png",
