@@ -4,7 +4,7 @@
       "targetprice": "Rs. 2225.00",
       "percentchange": "Rs. 20.92", 
       "broker": "HDFC Securities",
-      "status": "Sell"
+      "status": "Sell",
       "date": "1/05/2021"
     },
     {
@@ -12,7 +12,7 @@
       "targetprice": "Rs. 358.00",
       "percentchange": "Rs. 15.84", 
       "broker": "HDFC Securities",
-      "status": "Buy"
+      "status": "Buy",
       "date": "30/04/2021"
     },
     {
@@ -20,7 +20,7 @@
       "targetprice": "Rs. 4360.00",
       "percentchange": "Rs. 13.73", 
       "broker": "HDFC Securities",
-      "status": "Hold"
+      "status": "Hold",
       "date": "30/04/2021"
     },
     {
@@ -28,7 +28,7 @@
       "targetprice": "Rs. 2315.00",
       "percentchange": "Rs. 1.65", 
       "broker": "HDFC Securities",
-      "status": "Buy"
+      "status": "Buy",
       "date": "30/04/2021"
     },
     {
@@ -36,7 +36,7 @@
       "targetprice": "Rs. 7013.00",
       "percentchange": "Rs. 8.63", 
       "broker": "Geojit BNP Paribas",
-      "status": "Sell"
+      "status": "Sell",
       "date": "30/04/2021"
     },
     {
@@ -44,7 +44,7 @@
       "targetprice": "Rs. 726.00",
       "percentchange": "Rs. 15.07", 
       "broker": "Geojit BNP Paribas",
-      "status": "Buy"
+      "status": "Buy",
       "date": "30/04/2021"
     },
     {
@@ -52,7 +52,7 @@
       "targetprice": "Rs. 1506.00",
       "percentchange": "Target Met", 
       "broker": "Motilal Oswal",
-      "status": "Buy"
+      "status": "Buy",
       "date": "30/04/2021"
     }
 ]
