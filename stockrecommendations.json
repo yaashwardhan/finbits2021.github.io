@@ -1,0 +1,58 @@
+[
+    {
+      "company": "Ajanta Pharma Ltd.",
+      "targetprice": "Rs. 2225.00",
+      "percentchange": "Rs. 20.92", 
+      "broker": "HDFC Securities",
+      "status": "Sell",
+      "date": "1/05/2021"
+    },
+    {
+      "company": "Ambuja Cements Ltd.",
+      "targetprice": "Rs. 358.00",
+      "percentchange": "Rs. 15.84", 
+      "broker": "HDFC Securities",
+      "status": "Buy",
+      "date": "30/04/2021"
+    },
+    {
+      "company": "Bajaj Auto Ltd.",
+      "targetprice": "Rs. 4360.00",
+      "percentchange": "Rs. 13.73", 
+      "broker": "HDFC Securities",
+      "status": "Hold",
+      "date": "30/04/2021"
+    },
+    {
+      "company": "Hindustan Unilever Ltd.",
+      "targetprice": "Rs. 2315.00",
+      "percentchange": "Rs. 1.65", 
+      "broker": "HDFC Securities",
+      "status": "Buy",
+      "date": "30/04/2021"
+    },
+    {
+      "company": "Maruti Suzuki India Ltd.",
+      "targetprice": "Rs. 7013.00",
+      "percentchange": "Rs. 8.63", 
+      "broker": "Geojit BNP Paribas",
+      "status": "Sell",
+      "date": "30/04/2021"
+    },
+    {
+      "company": "TVS Motor Company Ltd.",
+      "targetprice": "Rs. 726.00",
+      "percentchange": "Rs. 15.07", 
+      "broker": "Geojit BNP Paribas",
+      "status": "Buy",
+      "date": "30/04/2021"
+    },
+    {
+      "company": "Titan Company Ltd.",
+      "targetprice": "Rs. 1506.00",
+      "percentchange": "Target Met", 
+      "broker": "Motilal Oswal",
+      "status": "Buy",
+      "date": "30/04/2021"
+    }
+]
